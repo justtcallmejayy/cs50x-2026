@@ -1,1 +1,1 @@
-starting tmro
+Visual Studio Code for CS50-2026
