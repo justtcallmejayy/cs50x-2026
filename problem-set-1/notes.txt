@@ -1,1 +1,2 @@
 Visual Studio Code for CS50-2026
+Starting from tomorrow
